@@ -8,10 +8,7 @@
 
 using namespace std;
 
-
-
-void menu()
-
+int main (int argc, char const *argv[])
 {
 
 	int opcion = 0;
@@ -69,13 +66,13 @@ void menu()
 				system ("cls");
 
 				snake();
-
+				
+			default:
 				break;
-
 		}
 
 		
-
-	}
-
+		
+			}
+			return 0;
 }
