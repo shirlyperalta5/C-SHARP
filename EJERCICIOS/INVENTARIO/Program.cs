@@ -20,7 +20,7 @@
             Console.WriteLine("");
             Console.WriteLine("**********************");
             Console.WriteLine("Listado de Productos");
-	     	Console.WriteLine("*********************)";
+	     	Console.WriteLine("*********************");
 	     	Console.WriteLine("Codigo, Descripcion y Existencia)";
 
     for (int i = o; i < 5; i ++)
@@ -86,10 +86,10 @@
             Console.WriteLine("Sistema de Inventario");
             Console.WriteLine("**********************");
             Console.WriteLine("");
-	        Console.WriteLine("1 – Productos)";
-	        Console.WriteLine("2 – Ingreso de Inventario)";
-	        Console.WriteLine("3 – Salida de Inventario)";
-	        Console.WriteLine("0 – Salir)";
+	        Console.WriteLine("1") ("Productos");
+	        Console.WriteLine("2") ("Ingreso de Inventario");
+	        Console.WriteLine("3") ("Salida de Inventario");
+	        Console.WriteLine("0") ("Salir");
 	        Opción = Console.ReadLine();
 
 	    switch (option)
