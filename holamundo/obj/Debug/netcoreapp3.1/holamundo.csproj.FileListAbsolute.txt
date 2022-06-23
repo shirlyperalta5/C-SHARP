@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache

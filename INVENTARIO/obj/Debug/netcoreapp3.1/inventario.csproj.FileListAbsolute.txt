@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache
