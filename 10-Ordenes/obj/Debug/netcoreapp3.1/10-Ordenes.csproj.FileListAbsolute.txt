@@ -1,0 +1,4 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\10-Ordenes\obj\Debug\netcoreapp3.1\10-Ordenes.csproj.CoreCompileInputs.cache
