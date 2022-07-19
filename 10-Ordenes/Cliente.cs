@@ -1,12 +1,8 @@
 public class Cliente: Persona
 {
-    public int Codigo { get; set;}
+    public double Saldo {get; set; }
 
-    public string Nombre { get; set; }
-
-    public string Telefono {get; set; }
-
-    public Cliente(int codigo, string nombre, strong telefono)
+    public Cliente(int codigo, string nombre, string telefono)
     {
         Codigo = codigo;
         Nombre = nombre;

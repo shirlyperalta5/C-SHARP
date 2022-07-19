@@ -1,3 +1,5 @@
+
+
 using System;
 using System.Collections.Generic;
 public class DatosdePrueba
@@ -145,7 +147,7 @@ public class DatosdePrueba
                 Console.WriteLine("Producto no encontrado");
                 Console.ReadLine();
             } else {
-                Console.WriteLine("Producto agregado: " + producto.Descripcion + " con precio de: " + producto.Precio);
+                Console.WriteLine("Producto agregado: " + producto.Descripcion + " con precio de: " + producto.Precio + producto.Sub Total + producto.impuesto + producto Total);
                 nuevaOrden.AgregarProducto(producto);
             }
 
@@ -167,14 +169,14 @@ public class DatosdePrueba
         Console.WriteLine("Lista de Ordenes");
         Console.WriteLine("================");
         Console.WriteLine("");  
-        Console.WriteLine("Codigo | Fecha | Total");
+        Console.WriteLine("Codigo | Fecha | Sub Total | Impuesto | Total");
         Console.WriteLine("Cliente | Vendedor");
         Console.WriteLine("======================");
         Console.WriteLine("");  
 
         foreach (var orden in ListaOrdenes)
         {
-            Console.WriteLine(orden.Codigo + " | " + orden.Fecha + " | " + orden.Total);
+            Console.WriteLine(orden.Codigo + " | " + orden.Fecha + " |  " + orden.Sub Total + " |  " + orden.Impuesto + " | " + orden.Total);
             Console.WriteLine(orden.Cliente.Nombre + " | " + orden.Vendedor.Nombre);
             
             foreach (var detalle in orden.ListaOrdenDetalle)

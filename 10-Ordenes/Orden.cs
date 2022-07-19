@@ -29,6 +29,8 @@ public class Orden
         OrdenDetalle o = new OrdenDetalle(nuevoCodigo, 1, producto);
         ListaOrdenDetalle.Add(o);
 
-        Total += cantidad * producto.Precio;
+        Sub Total + cantidad * producto.Precio;
+        Impuesto =Sub Total *0.15;
+        Total = Sub Total + Impuesto;
     }
 }
