@@ -21,7 +21,7 @@ namespace propidades
         b.PrimerNombre ="Pedro";
         b.SegundoNombre ="Peralta";
 
-
+o
         Console.WriteLine(a.Id);
         Console.WriteLine(b.Id);
         Console.WriteLine(c.Id);
