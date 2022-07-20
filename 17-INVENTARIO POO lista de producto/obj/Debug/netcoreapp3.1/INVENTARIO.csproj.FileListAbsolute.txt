@@ -1,0 +1,4 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csproj.CoreCompileInputs.cache
