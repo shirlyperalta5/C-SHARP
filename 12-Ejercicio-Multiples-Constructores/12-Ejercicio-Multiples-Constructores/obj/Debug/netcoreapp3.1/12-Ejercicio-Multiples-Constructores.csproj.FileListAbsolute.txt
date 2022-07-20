@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\bin\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\12-Ejercicio-Multiples-Constructores\12-Ejercicio-Multiples-Constructores\obj\Debug\netcoreapp3.1\12-Ejercicio-Multiples-Constructores.genruntimeconfig.cache
