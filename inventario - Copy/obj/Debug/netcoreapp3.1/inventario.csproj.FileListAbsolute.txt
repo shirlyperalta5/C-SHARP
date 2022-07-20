@@ -1,0 +1,4 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario - Copy\obj\Debug\netcoreapp3.1\inventario.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario - Copy\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario - Copy\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\inventario - Copy\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache

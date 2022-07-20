@@ -9,7 +9,10 @@ public class Orden
     public Cliente Cliente { get; set; }
     public Vendedor Vendedor { get; set; }
     public List<OrdenDetalle> ListaOrdenDetalle { get; set; }
+    public double SubTotal { get; set; }
+    public double Impuesto { get; set; }
     public double Total { get; set; }
+    public double OrdenImpuesto { get; set; }
 
     public Orden(int codigo, DateTime fecha, string numeroOrden, Cliente cliente, Vendedor vendedor)
     {
@@ -25,12 +28,14 @@ public class Orden
     {
         int nuevoCodigo = ListaOrdenDetalle.Count + 1;
         int cantidad = 1;
+        Impuesto = 0.15;
 
         OrdenDetalle o = new OrdenDetalle(nuevoCodigo, 1, producto);
         ListaOrdenDetalle.Add(o);
 
-        Sub Total + cantidad * producto.Precio;
-        Impuesto =Sub Total *0.15;
-        Total = Sub Total + Impuesto;
+        SubTotal += cantidad * producto.Precio;
+        Total = SubTotal + (SubTotal * Impuesto);
+        OrdenImpuesto = SubTotal * Impuesto;
+        
     }
 }
