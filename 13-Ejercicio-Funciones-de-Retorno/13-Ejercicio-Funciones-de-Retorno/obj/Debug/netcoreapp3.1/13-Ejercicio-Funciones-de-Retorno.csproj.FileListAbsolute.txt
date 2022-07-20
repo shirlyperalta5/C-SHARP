@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\bin\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\13-Ejercicio-Funciones-de-Retorno\13-Ejercicio-Funciones-de-Retorno\obj\Debug\netcoreapp3.1\13-Ejercicio-Funciones-de-Retorno.genruntimeconfig.cache
