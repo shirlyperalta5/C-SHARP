@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.exe
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.deps.json
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.dll
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.pdb
 C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.genruntimeconfig.cache
+=======
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\bin\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\14-Ejercicio-Funciones-void\14-Ejercicio-Funciones-void\obj\Debug\netcoreapp3.1\14-Ejercicio-Funciones-void.genruntimeconfig.cache
+>>>>>>> 3834615de50cd7e0c2ee2f83a42d292d8014e8c1

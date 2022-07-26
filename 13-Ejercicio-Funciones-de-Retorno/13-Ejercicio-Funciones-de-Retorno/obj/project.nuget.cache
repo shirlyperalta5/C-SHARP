@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "o0G1ezAZsQiwBKZ0AWNG38rVTIx95WBZ/TBdEqA6YbENAamxJxz4KuRb9CRGar77bOZiYd5XEim2U4GTVi4oOA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\13-Ejercicio-Funciones-de-Retorno\\13-Ejercicio-Funciones-de-Retorno\\13-Ejercicio-Funciones-de-Retorno.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "o0G1ezAZsQiwBKZ0AWNG38rVTIx95WBZ/TBdEqA6YbENAamxJxz4KuRb9CRGar77bOZiYd5XEim2U4GTVi4oOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\13-Ejercicio-Funciones-de-Retorno\\13-Ejercicio-Funciones-de-Retorno\\13-Ejercicio-Funciones-de-Retorno.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 3834615de50cd7e0c2ee2f83a42d292d8014e8c1
 }

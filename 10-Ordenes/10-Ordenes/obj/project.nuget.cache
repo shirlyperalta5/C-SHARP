@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "ylXaRkCt3knT5SY8/ot+OlJEu/njNFsR93iGte6wRMrs7MxPtcoMdzHUvlS3EWYY5G+MC0or9t4BjdphlWdpZg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\10-Ordenes\\10-Ordenes\\10-Ordenes.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "ylXaRkCt3knT5SY8/ot+OlJEu/njNFsR93iGte6wRMrs7MxPtcoMdzHUvlS3EWYY5G+MC0or9t4BjdphlWdpZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\10-Ordenes\\10-Ordenes\\10-Ordenes.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 3834615de50cd7e0c2ee2f83a42d292d8014e8c1
 }

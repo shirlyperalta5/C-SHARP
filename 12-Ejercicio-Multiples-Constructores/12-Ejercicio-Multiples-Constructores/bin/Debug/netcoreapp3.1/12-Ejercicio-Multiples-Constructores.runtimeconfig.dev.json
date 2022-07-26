@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
@@ -5,4 +6,13 @@
       "C:\\Users\\Sarai Peralta\\.nuget\\packages"
     ]
   }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sarai Peralta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sarai Peralta\\.nuget\\packages"
+    ]
+  }
+>>>>>>> 3834615de50cd7e0c2ee2f83a42d292d8014e8c1
 }

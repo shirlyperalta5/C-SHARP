@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "x3TdeFlgRuprNqdbDonjyFU7Y4+Cdrt6Sc7a6UylfemitGBVFicmyFsMUS/HXhRbQTWzdbXDqQLYD28ky3dmXw==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\14-Ejercicio-Funciones-void\\14-Ejercicio-Funciones-void\\14-Ejercicio-Funciones-void.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "x3TdeFlgRuprNqdbDonjyFU7Y4+Cdrt6Sc7a6UylfemitGBVFicmyFsMUS/HXhRbQTWzdbXDqQLYD28ky3dmXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sarai Peralta\\Desktop\\EJERCICIOS\\C-SHARP\\14-Ejercicio-Funciones-void\\14-Ejercicio-Funciones-void\\14-Ejercicio-Funciones-void.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 3834615de50cd7e0c2ee2f83a42d292d8014e8c1
 }
