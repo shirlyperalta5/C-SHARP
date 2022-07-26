@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\bin\Debug\netcoreapp3.1\11-Ejercicio-Constructores.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\11-Ejercicio-Constructores\11-Ejercicio-Constructores\obj\Debug\netcoreapp3.1\11-Ejercicio-Constructores.genruntimeconfig.cache
