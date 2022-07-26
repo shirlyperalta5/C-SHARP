@@ -1,0 +1,13 @@
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.exe
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.deps.json
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.runtimeconfig.json
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.runtimeconfig.dev.json
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.dll
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\bin\Debug\netcoreapp3.1\ordenes-tarea.pdb
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.csprojAssemblyReference.cache
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.AssemblyInfoInputs.cache
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.AssemblyInfo.cs
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.csproj.CoreCompileInputs.cache
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.dll
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.pdb
+C:\L2\c-sharp\Ejercicios\12-Ordenes-Tarea\ordenes-tarea\obj\Debug\netcoreapp3.1\ordenes-tarea.genruntimeconfig.cache
