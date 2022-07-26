@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csproj.CoreCompileInputs.cache
+=======
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\15-INVENTARIO POO\obj\Debug\netcoreapp3.1\INVENTARIO.csproj.CoreCompileInputs.cache
+>>>>>>> 7dab0a8954bbbba4e09d1a4b5c67048d6f7a5fc0
