@@ -1,0 +1,13 @@
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.exe
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.deps.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.runtimeconfig.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.runtimeconfig.dev.json
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\bin\Debug\netcoreapp3.1\NotasEscolares.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.csprojAssemblyReference.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.AssemblyInfoInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.AssemblyInfo.cs
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.dll
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.pdb
+C:\Users\Sarai Peralta\Desktop\EJERCICIOS\C-SHARP\NotasEscolares\NotasEscolares\obj\Debug\netcoreapp3.1\NotasEscolares.genruntimeconfig.cache
